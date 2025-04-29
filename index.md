@@ -64,12 +64,6 @@ and those that can set research agendas and priorities in CPS/IoT security and p
 **&emsp;&emsp;&emsp;ICSNet: A Hybrid-Interaction Honeynet for Industrial Control Systems. Luis Salazar (University of California Santa Cruz), Efrén López-Morales (Texas A&M University-Corpus Christi), Juan Lozano (UC Santa Cruz), Carlos Rubio-Medrano (Texas A&M University-Corpus Christi), Álvaro Cárdenas (University of California, Santa Cruz)** <!-- &emsp;<a href="https://dl.acm.org/doi/10.1145/3605758.3623497" target="_blank">https://dl.acm.org/doi/10.1145/3605758.3623497</a> -->
 
 
-<!--
-* Short paper: 20 minutes
-* Regular paper: 30 minutes
-* Demo/Abstract: 20 minutes
--->
-  
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:0px;font-family:Arial, sans-serif;font-size:14px;
