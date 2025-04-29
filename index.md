@@ -16,7 +16,7 @@ layout: default_2025
 
 
 <h4 style="margin-top: 0;"> <strong> In conjunction with the <br />  
-<a href="https://www.sigsac.org/ccs/CCS2025/" target="_blank"> <strong> ACM Conference on Computer and Communications Security 2024 </strong> </a> </strong> </h4>
+<a href="https://www.sigsac.org/ccs/CCS2025/" target="_blank"> <strong> ACM Conference on Computer and Communications Security 2025 </strong> </a> </strong> </h4>
 
 ## Background
 
