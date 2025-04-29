@@ -88,7 +88,7 @@ about these policies, please contact the chairs.
 
 
 ## Important Dates
-- Submission deadline: <s>June 20, 2025 (23:59 Anywhere on Earth)</s> 
+- Submission deadline: June 20, 2025 (23:59 Anywhere on Earth)
 - Notification of acceptance/rejection (tentative): Aug 8, 2025
 - Deadline for submission of camera-ready papers: Aug 22, 2025
 - Workshop date:  October 13-17th, 2025
