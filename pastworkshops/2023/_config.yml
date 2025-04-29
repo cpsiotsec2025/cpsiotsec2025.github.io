@@ -1,0 +1,8 @@
+github: [metadata]
+theme: jekyll-theme-dinky
+
+include:
+  - "figs"
+
+title: CPSIoTSec 2023
+description: Joint Workshop on CPS&IoT Security and Privacy
