@@ -32,24 +32,26 @@ The Workshop on CPS&IoT Security and Privacy (CPSIoTSec 2025) invites academia, 
 * Demos (hands-on or videos) of testbeds/experiences of CPS&IoT security and privacy research
 
 We seek submissions from multiple interdisciplinary backgrounds tackling security and privacy issues in CPS&IoT, including but not limited to:
-* Mathematical foundations for secure CPS/IoT
+* AI/ML for CPS and IoT security
 * Control-theoretic approaches
-* High assurance security architectures
-* Security and resilience metrics
-* Metrics and risk assessment approaches
-* Identity and access management
-* Privacy and trust
-* Network security
-* Game theory applied to CPS/IoT security
-* Human factors, humans in the loop, and usable security
-* Understanding dependencies among security, reliability and safety in CPS/IoT
-* Economics of security and privacy
-* Intrusion and anomaly detection
-* Model-based security systems engineering
-* Sensor and actuator attacks
 * CPS/IoT malware analysis
 * CPS/IoT firmware analysis
+* Economics of security and privacy
+* Game theory applied to CPS/IoT security
 * Hardware-assisted CPS/IoT security
+* High assurance security architectures
+* Human factors, humans in the loop, and usable security
+* Identity and access management
+* Intrusion and anomaly detection
+* Mathematical foundations for secure CPS/IoT
+* Metrics and risk assessment approaches
+* Model-based security systems engineering
+* Network security
+* Privacy and trust
+* Security and privacy of AI integrations in CPS/IoT
+* Security and resilience metrics
+* Sensor and actuator attacks
+* Understanding dependencies among security, reliability and safety in CPS/IoT
 
 
 Also of interest will be papers that can point the research community to new research directions,
