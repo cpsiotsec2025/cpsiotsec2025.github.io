@@ -1,22 +1,22 @@
 ---
-layout: default_2024
+layout: default_2025
 ---
 
 <!-- <br /> -->
 
-![](https://upload.wikimedia.org/wikipedia/commons/2/27/Saltlakecity_winter2009.jpg)
+![](https://upload.wikimedia.org/wikipedia/commons/4/4e/Taipei_skyline_at_dusk.jpg)
 
 
 
 
 <p style="font-family: Arvo, Monaco, serif;
   line-height:1.3;
-	font-weight: normal;font-size: 30px;">The 6th Joint Workshop on <br /> CPS & IoT Security and Privacy</p>
+	font-weight: normal;font-size: 30px;">The 7th Joint Workshop on <br /> CPS & IoT Security and Privacy</p>
 
 
 
 <h4 style="margin-top: 0;"> <strong> In conjunction with the <br />  
-<a href="https://www.sigsac.org/ccs/CCS2024/" target="_blank"> <strong> ACM Conference on Computer and Communications Security 2024 </strong> </a> </strong> </h4>
+<a href="https://www.sigsac.org/ccs/CCS2025/" target="_blank"> <strong> ACM Conference on Computer and Communications Security 2024 </strong> </a> </strong> </h4>
 
 ## Background
 
@@ -25,7 +25,7 @@ The Joint Workshop on CPS&IoT Security and Privacy (CPSIoTSec) is the result of 
 
 
 ## Scope
-The Workshop on CPS&IoT Security and Privacy (CPSIoTSec 2024) invites academia, industry, and governmental entities to submit:
+The Workshop on CPS&IoT Security and Privacy (CPSIoTSec 2025) invites academia, industry, and governmental entities to submit:
 
 * Original research papers on the security and privacy of CPS&IoT
 * Systematization of Knowledge (SoK) papers on the security and privacy of CPS&IoT
@@ -56,7 +56,7 @@ Also of interest will be papers that can point the research community to new res
 and those that can set research agendas and priorities in CPS/IoT security and privacy.
 **There will be a best paper award.**
 
-
+<!--
 ## Program
 
 
@@ -212,6 +212,7 @@ Jean C Tonday Rodriguez (Florida International University), David Perry (Florida
 </tbody>
 </table>
 
+-->
 
 
 ## Submission Guidelines
@@ -240,54 +241,62 @@ about these policies, please contact the chairs.
 
 
 
-* **Paper Submission Site: <a href="https://cpsiotsec24.hotcrp.com/" target="_blank">https://cpsiotsec24.hotcrp.com/</a>**
+* **Paper Submission Site: <a href="https://cpsiotsec25.hotcrp.com/" target="_blank">https://cpsiotsec25.hotcrp.com/</a>**
 
 
 ## Important Dates
-- Submission deadline: <s>June 25, 2024 (23:59 Anywhere on Earth)</s> July, 18 AoE (firm)
-- Notification of acceptance/rejection (tentative): Aug 12, 2024
-- Deadline for submission of camera-ready papers: Aug 29, 2024
-- Workshop date:  October 18th, 2024
+- Submission deadline: <s>June 20, 2025 (23:59 Anywhere on Earth)</s> 
+- Notification of acceptance/rejection (tentative): Aug 8, 2025
+- Deadline for submission of camera-ready papers: Aug 22, 2025
+- Workshop date:  October 13-17th, 2025
 
 ## Program Chairs
-* Magnus Almgren, Chalmers University of Technology, Sweden
+* Daisuke Mashima, Singapore University of Technology and Design, Singapore
 * Kassem M. Fawaz, University of Wisconsin, USA
 
 ## Technical Program Committee
 * Alessandro Brighente, University of Padua
+* Alvaro Cardenas, University of California, Santa Cruz
 * Amir Rahmati, Stony Brook University
+* Asmit	Nayak, University of Wisconsin Madison
 * Awais Rashid, University of Bristol
+* Biplab Sikdar, National University of Singapore
+* Charalambos Konstantinou, KAUST
 * Cristina Alcaraz, University of Malaga
+* Emil Lupu, Imperial College London
+* Eunsuk Kang, Carnegie Mellon University
 * Gang Tan, Penn State
 * George Stergiopoulos, University of the Aegean
 * Gerhard Hancke, City University of Hong Kong
-* Habiba Farrukh, Purdue University
-* Kassem Fawaz, University of Wisconsin-Madison
+* Herve	Debar, Telecom SudParis
+* Joe Gardiner, University of Bristol
 * Le Guan, University of Georgia
-* Luis Garcia, University of Utah
+* Luis Burbano, UC Santa Cruz
 * Luis Salazar, UC Santa Cruz
 * Magnus Almgren, Chalmers University of Technology
+* Mahsa Saeidi, University of Tehran 
 * Marina Krotofil, MaK security
-* Marios Anagnostopoulos, Aalborg University
 * Mauro Conti, University of Padua
-* Mikael Asplund, Link√∂ping University
+* Mikael Asplund, Linkoping University
+* Mohammad Ashiqur Rahman, Florida International University
 * Monowar Hasan, Washington State University
-* Muslum Ozgur Ozmen, Purdue University & Arizona State University
+* Muslum Ozgur Ozmen, Arizona State University
+* Neetesh Saxena, Cardiff University
 * Nils Ole, Tippenhauer, CISPA Helmholtz Center for Information Security
 * Pablo Picazo-Sanchez, Halmstad University. Halmstad. Sweden
 * Peng Liu, The Pennsylvania State University
+* Pengfei Zhou, University of Pittsburgh
 * Rishabh Khandelwal, University of Wisconsin-Madison
-* Sachin Kumar, Singh	University of Utah
+* Sachin Kumar Singh, University of Utah
+* Sai Sree Laya	Chukkapalli, IBM Research
 * Saman Zonouz, Georgia Institute of Technology
-* Sara Rampazzi, University of Florida
-* Shimaa Ahmed, Visa Research
+* Shahid Raza, University of Glasgow
 * Sokratis Katsikas, Norwegian University of Science & Technology
-* Sridhar Adepu, University of Bristol
+* Sridhar Adepu, Swansea University
 * Stefano Longari, Politecnico di Milano
-* Vasileios Gkioulos, Norwegian University of Science and Technology
-* Weizhi Meng, Technical University of Denmark
-* Yongkai Fan, State Key Laboratory of Media Convergence and Communication, China University of Communication
-* Yuqing Zhang, National Computer Network Intrusion Protection Center, University of Chinese Academy of Sciences
+* Walid	Saad, Virginia Tech
+* Weizhi Meng, Lancaster University, United Kingdom
+* Xiapu	Luo, The Hong Kong Polytechnic University
 
 ## Steering Committee
 * Rakesh Bobba, Oregon State University
@@ -302,11 +311,11 @@ about these policies, please contact the chairs.
 
 ## Publicity Chair
 * Pablo Picazo-Sanchez, Halmstad University
-* Masoom Rabbani, COSIC, KU Leuven, Belgium
 
 
 ## Past Workshop
 
+* <a href="https://cpsiotsec2024b.github.io" target="_blank"> <strong> CPSIoTSec 2024 </strong> </a>
 * <a href="https://cpsiotsec2023.github.io" target="_blank"> <strong> CPSIoTSec 2023 </strong> </a>
 * <a href="https://cpsiotsec2022.github.io/cpsiotsec/" target="_blank"> <strong> CPSIoTSec 2022 </strong> </a>
 * <a href="https://cpsiotsec.github.io/" target="_blank"> <strong> CPSIoTSec 2021 </strong> </a>
