@@ -117,7 +117,7 @@ about these policies, please contact the chairs.
 * Joe Gardiner, University of Bristol
 * Le Guan, University of Georgia
 * Luis Burbano, UC Santa Cruz
-* Luis Salazar, UC Santa Cruz
+* Luis Salazar, Somos Internet
 * Magnus Almgren, Chalmers University of Technology
 * Mahsa Saeidi, University of Tehran 
 * Marina Krotofil, MaK security
@@ -136,6 +136,7 @@ about these policies, please contact the chairs.
 * Sai Sree Laya	Chukkapalli, IBM Research
 * Saman Zonouz, Georgia Institute of Technology
 * Shahid Raza, University of Glasgow
+* Shimaa Ahmed, Visa Research
 * Sokratis Katsikas, Norwegian University of Science & Technology
 * Sridhar Adepu, Swansea University
 * Stefano Longari, Politecnico di Milano
