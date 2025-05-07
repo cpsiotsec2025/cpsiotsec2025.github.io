@@ -93,7 +93,7 @@ about these policies, please contact the chairs.
 - Submission deadline: June 20, 2025 (23:59 Anywhere on Earth)
 - Notification of acceptance/rejection (tentative): Aug 8, 2025
 - Deadline for submission of camera-ready papers: Aug 22, 2025
-- Workshop date:  October 13-17th, 2025
+- Workshop date:  October 17th, 2025
 
 ## Program Chairs
 * Daisuke Mashima, Singapore University of Technology and Design, Singapore
@@ -121,6 +121,7 @@ about these policies, please contact the chairs.
 * Magnus Almgren, Chalmers University of Technology
 * Mahsa Saeidi, University of Tehran 
 * Marina Krotofil, MaK security
+* Masoom Rabbani, Chalmers
 * Mauro Conti, University of Padua
 * Mikael Asplund, Linkoping University
 * Mohammad Ashiqur Rahman, Florida International University
@@ -156,6 +157,7 @@ about these policies, please contact the chairs.
 * Yuqing Zhang, University of CAS
 
 ## Publicity Chair
+* Masoom Rabbani, Chalmers
 * Pablo Picazo-Sanchez, Halmstad University
 
 
