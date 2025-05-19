@@ -110,6 +110,7 @@ about these policies, please contact the chairs.
 * Cristina Alcaraz, University of Malaga
 * Emil Lupu, Imperial College London
 * Eunsuk Kang, Carnegie Mellon University
+* Farshad Khorrami, New York University
 * Gang Tan, Penn State
 * George Stergiopoulos, University of the Aegean
 * Gerhard Hancke, City University of Hong Kong
