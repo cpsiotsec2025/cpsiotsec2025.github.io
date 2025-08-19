@@ -85,6 +85,15 @@ author. Submissions not meeting these guidelines risk immediate rejection. For q
 about these policies, please contact the chairs.
 
 
+## Program
+
+**Keynote:** Daniel Xiapu Luo<br />
+**Title:** The Road Less Hacked: Enhancing Security in Automotive Systems <br />
+**Abstract:** As vehicles transform into complex, interconnected systems, cybersecurity emerges as a paramount concern. This presentation will begin with an examination of the current automotive attack surfaces, exploring how modern vehicles, equipped with advanced connectivity features, are increasingly vulnerable to cyber threats. Following this, we will introduce our recent studies on identifying vulnerabilities in critical automotive components and the design of defense mechanisms. <br />
+**Bio:**  Professor in the Department of Computing, Associate Dean (Research) of  the Faculty of Computer and Mathematical Sciences, Co-Director of the Research Centre for Blockchain Technology, and Programme Leader of MSc in Blockchain Technology at the Hong Kong Polytechnic University. His research focuses on Mobile and IoT Security, Blockchain and Smart Contracts Security, Network Security and Privacy, and Software Engineering with papers published in top venues. His research led to more than ten best/distinguished paper awards, including ACM CCS'24 Distinguished Paper Award, four ACM SIGSOFT Distinguished Paper Awards, Best DeFi Papers Award 2023, Best Paper Award in INFOCOM'18, Best Research Paper Award in ISSRE'16, etc. and several awards from the industry. He received the BOCHK Science and Technology Innovation Prize  (FinTech) 2023 for his contribution to blockchain security. He is an ACM Distinguished Member for his research in safeguarding blockchain and smart contracts along with
+Android and its applications. He also actively contributes to the community by participating in program/organization committees for major conferences in security, software engineering, and networking, and by serving as an associate editor for prestigious journals such as IEEE/ACM Transactions on Networking (ToN), IEEE Transactions on Dependable and Secure Computing (TDSC), and ACM Transactions on Privacy and Security (TOPS). He is a member of the Hong Kong Monetary Authority’s CBDC Expert Group.<br />
+
+
 
 * **Paper Submission Site: <a href="https://cpsiotsec25.hotcrp.com/" target="_blank">https://cpsiotsec25.hotcrp.com/</a>**
 
@@ -169,3 +178,4 @@ about these policies, please contact the chairs.
 * <a href="https://cpsiotsec2023.github.io" target="_blank"> <strong> CPSIoTSec 2023 </strong> </a>
 * <a href="https://cpsiotsec2022.github.io/cpsiotsec/" target="_blank"> <strong> CPSIoTSec 2022 </strong> </a>
 * <a href="https://cpsiotsec.github.io/" target="_blank"> <strong> CPSIoTSec 2021 </strong> </a>
+
