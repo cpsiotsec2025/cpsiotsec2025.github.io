@@ -89,7 +89,7 @@ about these policies, please contact the chairs.
 <table>
   <tr>
     <td style="width:120px; vertical-align:top;">
-      <img src="https://www.polyu.edu.hk/comp/-/media/department/comp/people/2025/daniel-luo.jpg" width="500" style="border-radius:8px;">
+      <img src="https://www.polyu.edu.hk/comp/-/media/department/comp/people/2025/daniel-luo.jpg" width="100" style="border-radius:8px;">
     </td>
     <td style="vertical-align:top;">
       <strong>Keynote:</strong> Daniel Xiapu Luo<br/>
@@ -184,6 +184,7 @@ about these policies, please contact the chairs.
 * <a href="https://cpsiotsec2023.github.io" target="_blank"> <strong> CPSIoTSec 2023 </strong> </a>
 * <a href="https://cpsiotsec2022.github.io/cpsiotsec/" target="_blank"> <strong> CPSIoTSec 2022 </strong> </a>
 * <a href="https://cpsiotsec.github.io/" target="_blank"> <strong> CPSIoTSec 2021 </strong> </a>
+
 
 
 
