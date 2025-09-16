@@ -117,82 +117,82 @@ about these policies, please contact the chairs.
 <tbody>
   <tr>
     <td>9:00 - 9:20</td>    
-    <td colspan="2"><b>Opening Remarks</b>, Daisuke Mashima (Singapore University of Technology and Design), Kassem Fawaz (University of Wisconsin Madison)</td>    
+    <td colspan="2"><strong>Opening Remarks</strong>, Daisuke Mashima (Singapore University of Technology and Design), Kassem Fawaz (University of Wisconsin Madison)</td>    
   </tr>
   <tr>
     <td>9:30</td>
-    <td colspan="2"><b>Keynote:</b> The Road Less Hacked: Enhancing Security in Automotive Systems. Prof. Xiapu Luo (The Hong Kong Polytechnic University)</td>    
+    <td colspan="2"><strong>Keynote:</strong> The Road Less Hacked: Enhancing Security in Automotive Systems. Prof. Xiapu Luo (The Hong Kong Polytechnic University)</td>    
   </tr>
 
   <tr>
     <td>10:30 - 11:00</td>
-    <td colspan="2"><b>Morning Coffee Break</b></td>
+    <td colspan="2"><strong>Morning Coffee Break</strong></td>
   </tr>
 
   <tr>
     <td>11:00 - 11:50</td>
-    <td colspan="2"><b>Full Papers</b></td>
+    <td colspan="2"><strong>Full Papers</strong></td>
   </tr>
   <tr>
     <td></td>
-    <td colspan="2"><b>Energy-Conscious and Regulation-Ready Security Protocol for Wearable Medical Devices: From Formal Proofs to Deployment.</b> Sidra Anwar, Mouaz Hendi, Jonathan Anderson</td>
+    <td colspan="2"><strong>Energy-Conscious and Regulation-Ready Security Protocol for Wearable Medical Devices: From Formal Proofs to Deployment.</strong> Sidra Anwar, Mouaz Hendi, Jonathan Anderson</td>
   </tr>
   <tr>
     <td></td>
-    <td colspan="2"><b>CrossGuard: A Cross-Modal Deep Learning Framework for Semantic-Structural Threat Detection utilizing Provenance Graph.</b> Seong-Su Yoon, Hui-Seok Yang, Ieck-Chae Euom</td>
+    <td colspan="2"><strong>CrossGuard: A Cross-Modal Deep Learning Framework for Semantic-Structural Threat Detection utilizing Provenance Graph.</strong> Seong-Su Yoon, Hui-Seok Yang, Ieck-Chae Euom</td>
   </tr>
 
   <tr>
     <td>11:50 - 13:30</td>
-    <td colspan="2"><b>Lunch</b></td>
+    <td colspan="2"><strong>Lunch</strong></td>
   </tr>
 
   <tr>
     <td>13:30 - 15:00</td>
-    <td colspan="2"><b>Full Papers</b></td>
+    <td colspan="2"><strong>Full Papers</strong></td>
   </tr>
   <tr>
     <td></td>
-    <td colspan="2"><b>Enabling Confidential I/O on RISC-V Without Hardware Modifications.</b> Gregor Haas, Micheal Chung, David Kohlbrenner</td>
+    <td colspan="2"><strong>Enabling Confidential I/O on RISC-V Without Hardware Modifications.</strong> Gregor Haas, Micheal Chung, David Kohlbrenner</td>
   </tr>
   <tr>
     <td></td>
-    <td colspan="2"><b>Denial-of-Service Impact Evaluation Testbed for Embedded Devices.</b> Florian Förster, Song Son Ha, Henry Beuster, Thomas Robert Doebbert, Gerd Scholl, Dominik Merli</td>
+    <td colspan="2"><strong>Denial-of-Service Impact Evaluation Testbed for Embedded Devices.</strong> Florian Förster, Song Son Ha, Henry Beuster, Thomas Robert Doebbert, Gerd Scholl, Dominik Merli</td>
   </tr>
   <tr>
     <td></td>
-    <td colspan="2"><b>PUF-based AKE: Attacks, Entropy and Post-Quantum Security.</b> Somnath Panja, Nikita Tripathi, Reihaneh Safavi-Naini</td>
+    <td colspan="2"><strong>PUF-based AKE: Attacks, Entropy and Post-Quantum Security.</strong> Somnath Panja, Nikita Tripathi, Reihaneh Safavi-Naini</td>
   </tr>
 
   <tr>
     <td>14:45 - 15:15</td>
-    <td colspan="2"><b>Afternoon Coffee Break</b></td>
+    <td colspan="2"><strong>Afternoon Coffee Break</strong></td>
   </tr>
 
   <tr>
     <td>15:15 - 16:15</td>
-    <td colspan="2"><b>Short Papers</b></td>
+    <td colspan="2"><strong>Short Papers</strong></td>
   </tr>
   <tr>
     <td></td>
-    <td colspan="2"><b>Robust Tuning and Evaluation of Flocking Algorithms For Decentralized Swarms of Small Quadrotors.</b> Gabriel Ritter, Rakesh B. Bobba</td>
+    <td colspan="2"><strong>Robust Tuning and Evaluation of Flocking Algorithms For Decentralized Swarms of Small Quadrotors.</strong> Gabriel Ritter, Rakesh B. Bobba</td>
   </tr>
   <tr>
     <td></td>
-    <td colspan="2"><b>Towards Behavior Grammar-Driven IoT Network Traffic Generation using MUD Specifications.</b> Shuai Zhang, Shayan Azizi, Aditya Joshi, Gustavo Batista, Hassan Habibi Gharakheili</td>
+    <td colspan="2"><strong>Towards Behavior Grammar-Driven IoT Network Traffic Generation using MUD Specifications.</strong> Shuai Zhang, Shayan Azizi, Aditya Joshi, Gustavo Batista, Hassan Habibi Gharakheili</td>
   </tr>
   <tr>
     <td></td>
-    <td colspan="2"><b>Towards Label Shift Adaptation for Robust IoT Device Identification.</b> Shayan Azizi, Felipe Vaiano Calderan, Norihiro Okui, Masataka Nakahara, Ayumu Kubota, Marcos Gonçalves Quiles, Gustavo Enrique Batista, Hassan Habibi Gharakheili</td>
+    <td colspan="2"><strong>Towards Label Shift Adaptation for Robust IoT Device Identification.</strong> Shayan Azizi, Felipe Vaiano Calderan, Norihiro Okui, Masataka Nakahara, Ayumu Kubota, Marcos Gonçalves Quiles, Gustavo Enrique Batista, Hassan Habibi Gharakheili</td>
   </tr>
   <tr>
     <td></td>
-    <td colspan="2"><b>Exploring Multi-User Access Control Design in IoT-assisted In-Home Dementia Care.</b> Patrick Jfremov-Kustov, Weijia He</td>
+    <td colspan="2"><strong>Exploring Multi-User Access Control Design in IoT-assisted In-Home Dementia Care.</strong> Patrick Jfremov-Kustov, Weijia He</td>
   </tr>
 
   <tr>
     <td>16:15</td>
-    <td colspan="2"><b>Closing and Best paper award.</b> Daisuke Mashima, Kassem Fawaz</td>
+    <td colspan="2"><strong>Closing and Best paper award.</strong> Daisuke Mashima, Kassem Fawaz</td>
   </tr>
 </tbody>
 </table>
@@ -281,6 +281,7 @@ about these policies, please contact the chairs.
 * <a href="https://cpsiotsec2023.github.io" target="_blank"> <strong> CPSIoTSec 2023 </strong> </a>
 * <a href="https://cpsiotsec2022.github.io/cpsiotsec/" target="_blank"> <strong> CPSIoTSec 2022 </strong> </a>
 * <a href="https://cpsiotsec.github.io/" target="_blank"> <strong> CPSIoTSec 2021 </strong> </a>
+
 
 
 
