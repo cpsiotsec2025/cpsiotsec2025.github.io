@@ -87,7 +87,7 @@ about these policies, please contact the chairs.
 * **Paper Submission Site: <a href="https://cpsiotsec25.hotcrp.com/" target="_blank">https://cpsiotsec25.hotcrp.com/</a>**
 
 
-## Program
+## Keynote
 <table>
   <tr>
     <td style="width:120px; vertical-align:top;">
@@ -281,6 +281,7 @@ about these policies, please contact the chairs.
 * <a href="https://cpsiotsec2023.github.io" target="_blank"> <strong> CPSIoTSec 2023 </strong> </a>
 * <a href="https://cpsiotsec2022.github.io/cpsiotsec/" target="_blank"> <strong> CPSIoTSec 2022 </strong> </a>
 * <a href="https://cpsiotsec.github.io/" target="_blank"> <strong> CPSIoTSec 2021 </strong> </a>
+
 
 
 
