@@ -176,6 +176,27 @@ about these policies, please contact the chairs.
   <tr>
     <td></td>
     <td colspan="2"><b>Robust Tuning and Evaluation of Flocking Algorithms For Decentralized Swarms of Small Quadrotors.</b> Gabriel Ritter, Rakesh B. Bobba</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td colspan="2"><b>Towards Behavior Grammar-Driven IoT Network Traffic Generation using MUD Specifications.</b> Shuai Zhang, Shayan Azizi, Aditya Joshi, Gustavo Batista, Hassan Habibi Gharakheili</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td colspan="2"><b>Towards Label Shift Adaptation for Robust IoT Device Identification.</b> Shayan Azizi, Felipe Vaiano Calderan, Norihiro Okui, Masataka Nakahara, Ayumu Kubota, Marcos Gonçalves Quiles, Gustavo Enrique Batista, Hassan Habibi Gharakheili</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td colspan="2"><b>Exploring Multi-User Access Control Design in IoT-assisted In-Home Dementia Care.</b> Patrick Jfremov-Kustov, Weijia He</td>
+  </tr>
+
+  <tr>
+    <td>16:15</td>
+    <td colspan="2"><b>Closing and Best paper award.</b> Daisuke Mashima, Kassem Fawaz</td>
+  </tr>
+</tbody>
+</table>
+
 
 
 
@@ -260,6 +281,7 @@ about these policies, please contact the chairs.
 * <a href="https://cpsiotsec2023.github.io" target="_blank"> <strong> CPSIoTSec 2023 </strong> </a>
 * <a href="https://cpsiotsec2022.github.io/cpsiotsec/" target="_blank"> <strong> CPSIoTSec 2022 </strong> </a>
 * <a href="https://cpsiotsec.github.io/" target="_blank"> <strong> CPSIoTSec 2021 </strong> </a>
+
 
 
 
