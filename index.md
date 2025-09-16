@@ -116,7 +116,7 @@ about these policies, please contact the chairs.
 <table class="tg">
 <tbody>
   <tr>
-    <td>9:00 - 9:20</td>    
+    <td style="width:90px; vertical-align:top;">9:00 - 9:20</td>    
     <td colspan="2"><strong>Opening Remarks</strong>, Daisuke Mashima (Singapore University of Technology and Design), Kassem Fawaz (University of Wisconsin Madison)</td>    
   </tr>
   <tr>
@@ -281,6 +281,7 @@ about these policies, please contact the chairs.
 * <a href="https://cpsiotsec2023.github.io" target="_blank"> <strong> CPSIoTSec 2023 </strong> </a>
 * <a href="https://cpsiotsec2022.github.io/cpsiotsec/" target="_blank"> <strong> CPSIoTSec 2022 </strong> </a>
 * <a href="https://cpsiotsec.github.io/" target="_blank"> <strong> CPSIoTSec 2021 </strong> </a>
+
 
 
 
